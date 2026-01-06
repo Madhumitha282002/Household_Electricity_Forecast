@@ -1,4 +1,4 @@
-# Household_Electricity_Forecast
+# Household Electricity Forecast
 
 ## Background  
 
