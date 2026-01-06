@@ -40,3 +40,7 @@ The top peak-load days coincide with colder periods and high evening activity. T
 Hourly consumption profiles reveal a consistent base load from always-on devices and additional variable load from appliances used during specific times (cooking, entertainment, heating/cooling). The gap between base and peak consumption indicates potential savings through better scheduling of flexible activities (e.g., laundry, dishwashing) and adoption of more efficient devices. Personalized recommendations based on this forecast (such as “shift usage away from forecasted peak hours”) can improve customer engagement and help the company meet efficiency and sustainability targets.  
 
 ![Usage Profile & Opportunities](images/usage_profile.jpg)  
+
+### Analysis
+
+The analysis is done using JMP software. Please check ![Process](Process/Readme.md) folder
