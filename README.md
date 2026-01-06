@@ -44,3 +44,5 @@ Hourly consumption profiles reveal a consistent base load from always-on devices
 ### Analysis
 
 The analysis is done using JMP software. Please check ![Process](Process/Readme.md) folder
+
+**Data**: https://www.kaggle.com/datasets/uciml/electric-power-consumption-data-set
